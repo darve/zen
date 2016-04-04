@@ -1,3 +1,4 @@
-### Wax
+### Zen
 
-A dead simple canvas app boilerplate. Uses Compass for SCSS compilation.
+Just another experiment inspired by Zen Doodles.
+
